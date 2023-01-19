@@ -1,0 +1,10 @@
+[class^="col-"] {
+    background-color: orangered;
+    padding: 10px;
+    color: white;
+    border: 1px solid white;
+}
+
+section {
+    padding: 10px 0;
+}
